@@ -1,0 +1,8 @@
+{
+  "model_path": "models/yolov8n.pt",
+  "use_webcam": true,
+  "save_video": true,
+  "frame_skip": 2,
+  "confidence_threshold": 0.3,
+  "similarity_threshold": 0.6
+}
